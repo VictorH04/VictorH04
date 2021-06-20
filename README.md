@@ -37,7 +37,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="spotify-now-playing-puce-three.vercel.app/api/spotify-playing" alt="VictorH04 Spotify Playing" width="350" />](https://open.spotify.com/user/		21kassvlepwfkcrnvo7l2xfbq)
+<img src="spotify-now-playing-puce-three.vercel.app/api/spotify-playing" alt="VictorH04 Spotify Playing" width="350" />(https://open.spotify.com/user/		21kassvlepwfkcrnvo7l2xfbq)
 
 <br />
 
