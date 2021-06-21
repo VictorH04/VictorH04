@@ -3,7 +3,7 @@
 
 ## I'm a Developer, Student and music fanatic!
 
-- 🔭 I launched my Portfolio!: [victorhristov.com][website]!
+- 🔭 I launched my Portfolio! [victorhristov.com][website]!
 - 🌱 I’m currently advancing in NodeJS & Vue
 - 👯 I’m looking to dive deeper into Databases and API's
 - 🥅 2021 Goals: Get better at FullStack 
