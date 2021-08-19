@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor! 👋
 
 
-## I'm a Developer, Student and music fanatic!
+## I'm a Developer, Student and music fanatic.
 
 - 🔭 I launched my Portfolio! [victorhristov.com][website]
 - 🌱 I’m currently advancing in NodeJS & Vue
