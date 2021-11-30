@@ -7,7 +7,7 @@
 - 🌱 I’m currently advancing in NodeJS, Vue and React
 - 👯 I’m looking to dive deeper into Databases, API's and NodeJS
 - 🥅 2021 Goals: Get better at FullStack 
-- ⚡ Fun fact: I'm a fragrance lover and collector 🤩
+- ⚡ Fun fact: I'm a fragrance collector & love bonsai 🤩
 
 
 ### Connect with me:
