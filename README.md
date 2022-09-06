@@ -3,11 +3,6 @@
 
 ## I'm a Developer, Student and music fanatic.
 
-- 🔭 I launched my Portfolio! [victorhristov.com][website]
-- 🌱 I’m currently advancing in MERN-stack
-- 👯 I’m looking to dive deeper into Databases, API's and Authentication
-- 🥅 2022 Goals: Get better at FullStack 
-
 
 ### Connect with me:
 
