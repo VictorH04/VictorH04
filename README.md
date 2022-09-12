@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor! 👋
 
 
-## I'm a Developer, Student and music fanatic.
+## Developer && music fanatic.
 
 
 ### Connect with me:
