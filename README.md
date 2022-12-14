@@ -6,8 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="victorhristov.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="VictorH04 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="VictorH04 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
@@ -32,6 +31,5 @@
 <br />
 <br />
 
-[website]: https://victorhristov.com
-[instagram]: https://www.instagram.com/prinsvictor_/
+[linkedin]: https://www.linkedin.com/in/victor-nikolaev-hristov-473949229
 [facebook]: https://www.facebook.com/Victor.Nikolaiev.Hr/
