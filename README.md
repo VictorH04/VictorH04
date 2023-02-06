@@ -12,19 +12,11 @@
 <br/>  
 
 
-<table><tr><td valign="top" width="50%">
-
 ### Software Developer for [Perito.dev](https://www.perito.dev/)  
 I like to try out stuff that interests me.
 
 I also really like music.  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
