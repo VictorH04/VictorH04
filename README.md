@@ -12,7 +12,7 @@
 <br/>  
 
 
-### Software Developer for [Perito.dev](https://www.perito.dev/)  
+### Software Developer
 I like to try out stuff that interests me.
 
 I also really like music.  
