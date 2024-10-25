@@ -57,12 +57,4 @@ I also really like music.
 
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21kassvlepwfkcrnvo7l2xfbq&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
 
