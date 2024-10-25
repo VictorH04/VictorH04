@@ -23,10 +23,13 @@ I also really like music.
 
 ## Languages and Tools  
 <div align="center">  
-  <p style="margin: 10px">React</p>
-  <p style="margin: 10px">React Native</p>
-  <p style="margin: 10px">NextJS</p>
-  <p style="margin: 10px">SCSS</p>
+  <h3 style="margin: 10px">Frontend</h3>
+  <div style="display: flex, flex-direction: row, align-items: center">
+    <p style="margin: 10px">React</p>
+    <p style="margin: 10px">React Native</p>
+    <p style="margin: 10px">NextJS</p>
+    <p style="margin: 10px">SCSS</p>
+  </div>
 </div>  
 
 <br/>  
